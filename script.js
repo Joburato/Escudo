@@ -139,7 +139,7 @@ function playbody(){
 
 function playdes(){
 
-var d1=[Math.floor(Math.random()*10)+1+1]
+var d1=[Math.floor(Math.random()*10)+1+16]
 var d2=[Math.floor(Math.random()*10)+1+16]
 var d3=[Math.floor(Math.random()*10)+1+12]
 var d4=[Math.floor(Math.random()*10)+1+10]
